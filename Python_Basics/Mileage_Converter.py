@@ -17,7 +17,7 @@ while distance_before_conversion <=  0.0:
     try:
         distance_before_conversion = float(input(f'Please enter the distance in {unit_of_distance}: '))
     except:
-        print("P")
+        distance_before_conversion = float(input(f'Please enter the distance in {unit_of_distance}: '))
 
 
 
