@@ -1,8 +1,8 @@
 #This program finds the number of times a specific word is used in a sentence
 
-search = "is" #input("Please enter the letter or digit you want to search:\n")
+search = "ar" #input("Please enter the letter or digit you want to search:\n")
 
-sentence = "My name is Namer Afzal Khan. My age is 33. My educational background relates to finance, banking and IT. The purpose of this program is to find the number of times a specific word is used in a sentence. Let's see how many times my is detected in this sentence. "#input("Please write a sentence and then press enter:\n")
+sentence = "All apples are not red. Some are also yellow and green. Yellow color apples are mostly used for making juice" #input("Please write a sentence and then press enter:\n")
 
 word_counter = 0
 
